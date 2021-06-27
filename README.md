@@ -31,5 +31,5 @@ VBA scripting within Excel was created in Alphabetical Testing as this is a smal
 
 * [Stock Data](https://github.com/staceyj118/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm?raw=true) 
 
-* [VBA](https://raw.githubusercontent.com/staceyj118/VBA-challenge/main/VBA%20Script.bas) - VBA Script
+* [VBA Script](https://raw.githubusercontent.com/staceyj118/VBA-challenge/main/VBA%20Script.bas)
 
