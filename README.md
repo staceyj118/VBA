@@ -19,13 +19,16 @@ VBA scripting within Excel was created in Alphabetical Testing as this is a smal
 
 ## Results 
 
+### Year 2016
 ![2016](https://github.com/staceyj118/VBA-challenge/blob/main/2016.PNG?raw=true "2016")
 
+### Year 2015
 ![2015](https://github.com/staceyj118/VBA-challenge/blob/main/2015.PNG?raw=true "2015")
 
+### Year 2014
 ![2014](https://github.com/staceyj118/VBA-challenge/blob/main/2014.PNG?raw=true "2014")
 
-### Files
+## Files
 
 * [Test Data](https://github.com/staceyj118/VBA-challenge/blob/main/alphabetical_testing.xlsm?raw=true) 
 
