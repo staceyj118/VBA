@@ -1,6 +1,4 @@
-# VBA-challenge
-
-VBA of Wall Street 
+# VBA of Wall Street 
 
 ## Goal 
 
@@ -20,19 +18,19 @@ VBA scripting within Excel was created in Alphabetical Testing as this is a smal
 ## Results 
 
 ### Year 2016
-![2016](https://github.com/staceyj118/VBA-challenge/blob/main/2016.PNG?raw=true "2016")
+![2016](https://github.com/staceyj118/VBA/blob/main/2016.PNG?raw=true "2016")
 
 ### Year 2015
-![2015](https://github.com/staceyj118/VBA-challenge/blob/main/2015.PNG?raw=true "2015")
+![2015](https://github.com/staceyj118/VBA/blob/main/2015.PNG?raw=true "2015")
 
 ### Year 2014
-![2014](https://github.com/staceyj118/VBA-challenge/blob/main/2014.PNG?raw=true "2014")
+![2014](https://github.com/staceyj118/VBA/blob/main/2014.PNG?raw=true "2014")
 
 ## Files
 
-* [Test Data](https://github.com/staceyj118/VBA-challenge/blob/main/alphabetical_testing.xlsm?raw=true) 
+* [Test Data](https://github.com/staceyj118/VBA/blob/main/alphabetical_testing.xlsm?raw=true) 
 
-* [Stock Data](https://github.com/staceyj118/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm?raw=true) 
+* [Stock Data](https://github.com/staceyj118/VBA/blob/main/Multiple_year_stock_data.xlsm?raw=true) 
 
-* [VBA Script](https://raw.githubusercontent.com/staceyj118/VBA-challenge/main/VBA%20Script.bas)
+* [VBA Script](https://raw.githubusercontent.com/staceyj118/VBA/main/VBA%20Script.bas)
 
